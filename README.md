@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexandrenjr
+- 👀 I’m interested in tecnology, games and studying
+- 🌱 I’m currently learning how GtiHub and Git work
+- 📫 How to reach me: Twitter.com/alexandrenjr
