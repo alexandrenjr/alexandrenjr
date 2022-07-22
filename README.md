@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandrenjr
+- 👋 Hi, I’m [`@alexandrenjr`](https://github.com/alexandrenjr/)
 - 👀 I’m interested in tecnology, games and studying
 - 🌱 I’m currently learning how GtiHub and Git work
-- 📫 How to reach me: linkedin.com/in/alexandrenjr/
+- 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/alexandrenjr/)
